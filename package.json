@@ -1,0 +1,12 @@
+{
+  "name": "gas-ts-jest",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "clasp:push": "./node_modules/.bin/clasp push"
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.1.0",
+    "@types/google-apps-script": "^0.0.54"
+  }
+}
