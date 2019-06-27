@@ -4,7 +4,8 @@ module.exports = {
   ],
   "plugins": [
     "@typescript-eslint",
-    "googleappsscript"
+    "googleappsscript",
+    "jest",
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -14,6 +15,7 @@ module.exports = {
   "env": {
     "node": true,
     "googleappsscript/googleappsscript": true,
+    "jest/globals": true,
   },
   "settings": {
     "node": {
@@ -21,7 +23,7 @@ module.exports = {
     },
     "import/resolver": {
       "node": {
-        "paths": ["src"],
+        "paths": ["src", "__tests__"],
         "extensions": [".js", ".jsx", ".ts", ".tsx"],
       },
     },
