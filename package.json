@@ -5,7 +5,8 @@
   "scripts": {
     "lint": "./node_modules/.bin/eslint ./src/**/* ./__tests__/**/*",
     "test": "jest",
-    "clasp:push": "./node_modules/.bin/clasp push"
+    "clasp:push": "./node_modules/.bin/clasp push",
+    "clasp:open": "./node_modules/.bin/clasp open"
   },
   "devDependencies": {
     "@google/clasp": "^2.1.0",
