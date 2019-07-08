@@ -2,20 +2,16 @@ import SpreadsheetUtils from '../src/SpreadsheetUtils';
 
 // GASの独自オブジェクトはモックする
 SpreadsheetApp.openById = jest.fn(() => ({
-  getSheetByName: jest.fn(() => (
-    {
-      getDataRange: jest.fn(() => (
-        {
-          getValues: jest.fn(() => [
-            ['head1', 'head2'],
-            ['value A2', 'value B2'],
-            ['value A3', 'value B3'],
-          ]),
-        }
-      )),
-    }
-  )),
-}));
+  getSheetByName: jest.fn(() => ({
+    getDataRange: jest.fn(() => ({
+      getValues: jest.fn(() => [
+        ['head1', 'head2'],
+        ['value A2', 'value B2'],
+        ['value A3', 'value B3'],
+      ]),
+    })),
+  })),
+})) as any;
 
 describe('SpreadSheetUtils', () => {
   it('JSONで取得できる', () => {
