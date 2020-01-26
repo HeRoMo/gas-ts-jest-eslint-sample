@@ -1,0 +1,6 @@
+# .pronto_eslint_npm.yml
+# Configurations of pronto-eslint_npm
+# See: https://github.com/doits/pronto-eslint_npm
+eslint_executable: './node_modules/.bin/eslint'
+files_to_lint: '(\.js|\.ts)$'
+cmd_line_opts: './src/**/* ./__tests__/**/*'

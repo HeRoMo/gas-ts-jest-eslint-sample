@@ -1,0 +1,11 @@
+version: "3"
+services:
+  pronto:
+    image: hero/pronto-action:develop
+    volumes:
+      - .:/pronto
+    entrypoint: pronto
+    command: run -r eslint_npm
+
+# Execute the following command for running pronto locally
+# > docker-compose -f docker-compose-pronto.yaml run --rm pronto
