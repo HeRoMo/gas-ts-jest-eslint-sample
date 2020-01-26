@@ -31,4 +31,3 @@ ignorePatterns:
   - src/appsscript.json
 rules:
   import/extensions: [error, ignorePackages, { ts: never, js: never }]
-
