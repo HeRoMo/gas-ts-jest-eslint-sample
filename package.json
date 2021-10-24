@@ -5,6 +5,7 @@
   "scripts": {
     "eslint": "./node_modules/.bin/eslint ./src/**/* ./__tests__/**/*",
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "clasp": "./node_modules/.bin/clasp",
     "clasp:push": "./node_modules/.bin/clasp push",
     "clasp:open": "./node_modules/.bin/clasp open",
