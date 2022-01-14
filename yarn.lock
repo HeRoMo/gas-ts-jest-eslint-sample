@@ -647,10 +647,10 @@
     "@types/node" "*"
     "@types/responselike" "*"
 
-"@types/google-apps-script@^1.0.38":
-  version "1.0.38"
-  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.38.tgz#ec1b4df5e6d1723ce413f7a27dbf820ad7ebb886"
-  integrity sha512-E8Vd3ZGSonieCJ/Q4nOUc1/p7FJHoZfPaNrr+C64ZdGFe/67vADaq0Mm5TUJcqvq63l4tQ1b+GiX1YRliCa2kQ==
+"@types/google-apps-script@^1.0.44":
+  version "1.0.44"
+  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.44.tgz#daa42a005c9d63332e4a78f273656510f096dab5"
+  integrity sha512-QfvP9Q1sjtNCdzHWCo168ibLykrgyO9QK+4GA6agBa+MNWo3PU9i3K3QUzp9mXCx2++wh0slkYj0+VsrwMf1cA==
 
 "@types/graceful-fs@^4.1.2":
   version "4.1.5"
