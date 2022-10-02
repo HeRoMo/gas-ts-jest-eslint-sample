@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "reviewers": ["HeRoMo"],
+  "assignees": ["HeRoMo"],
   "packageRules": [
     {
       "matchDepTypes":["devDependencies"],
