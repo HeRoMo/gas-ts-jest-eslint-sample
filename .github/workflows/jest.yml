@@ -16,7 +16,7 @@ jobs:
       - name: Run Jest Test
         run: yarn test:coverage
       - name: Upload test coverage artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: jest-coverage
           path: coverage
