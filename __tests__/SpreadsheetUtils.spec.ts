@@ -11,7 +11,7 @@ SpreadsheetApp.openById = jest.fn(() => ({
       ]),
     })),
   })),
-})) as any;
+})) as any; // eslint-disable-line @typescript-eslint/no-explicit-any
 
 describe('SpreadSheetUtils', () => {
   it('JSONで取得できる', () => {
