@@ -3,11 +3,11 @@ import googleAppsScriptPlugin from 'eslint-plugin-googleappsscript';
 import importPlugin from 'eslint-plugin-import';
 import jestPlugin from 'eslint-plugin-jest';
 import pluginJs from '@eslint/js';
+import stylisticTsPlugin from '@stylistic/eslint-plugin-ts';
 import tsESLint from 'typescript-eslint';
-import tsESLintParser from '@typescript-eslint/parser';
-import typescriptESLintPlugin from '@typescript-eslint/eslint-plugin'
-import {FlatCompat} from '@eslint/eslintrc';
-import stylisticTsPlugin from '@stylistic/eslint-plugin-ts'
+import tsESLintParser from '@typescript-eslint/parser'; // eslint-disable-line import/default
+import typescriptESLintPlugin from '@typescript-eslint/eslint-plugin';
+import {FlatCompat} from '@eslint/eslintrc'; // eslint-disable-line import/namespace
 
 const compat = new FlatCompat();
 
