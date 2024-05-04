@@ -1,0 +1,3 @@
+eslint_executable: './node_modules/.bin/eslint'
+files_to_lint: '(\.js|\.ts)$'
+cmd_line_opts: '. --config eslint.config.js'
