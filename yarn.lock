@@ -555,10 +555,15 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@eslint/js@9.7.0", "@eslint/js@^9.2.0":
+"@eslint/js@9.7.0":
   version "9.7.0"
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.7.0.tgz#b712d802582f02b11cfdf83a85040a296afec3f0"
   integrity sha512-ChuWDQenef8OSFnvuxv0TCVxEwmu3+hPNKvM9B34qpM0rDRbjL8t5QkQeHHeAfsKQjuH9wS82WeCi1J/owatng==
+
+"@eslint/js@^10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@eslint/js/-/js-10.0.0.tgz#7f8e3c76e4eadb14718d89c60891ae526092b134"
+  integrity sha512-J2VKrn6YUBegZFzRQVOVA8jk7VViV/MXhQUvXuCUK1I2RGGT2E+bmNGOsgtdO9Wo25Kd3hfZFuCm8LcfsUFV7g==
 
 "@eslint/object-schema@^2.1.4":
   version "2.1.4"
