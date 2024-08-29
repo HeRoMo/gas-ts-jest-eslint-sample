@@ -966,24 +966,15 @@
   dependencies:
     "@sinonjs/commons" "^2.0.0"
 
-"@stylistic/eslint-plugin-js@2.6.5":
-  version "2.6.5"
-  resolved "https://registry.yarnpkg.com/@stylistic/eslint-plugin-js/-/eslint-plugin-js-2.6.5.tgz#a0e7cc5370a1cf939cb5b1e1112440a61bb4a0ab"
-  integrity sha512-RSXHczNa9RO5aLKUB+3P3iLOtM52rfIt11zxnmp5qdXUs2ve7rPAWVoom9krdzYNSARnNpeKH5c5uQ3VuHoEaA==
+"@stylistic/eslint-plugin-ts@^2.0.0":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@stylistic/eslint-plugin-ts/-/eslint-plugin-ts-2.7.1.tgz#b4fc4ec69c6150c3744b900ceec4c51418708b2a"
+  integrity sha512-pjqpqQ++xYAKvjsKJXUeLrbrkySkv2uT8BN/XRZHvZinb6XL4Dv2o3zHypKdmMANoZiAANwvLYcKoAmETVbxGw==
   dependencies:
-    "@types/eslint" "^9.6.0"
-    acorn "^8.12.1"
+    "@types/eslint" "^9.6.1"
+    "@typescript-eslint/utils" "^8.3.0"
     eslint-visitor-keys "^4.0.0"
     espree "^10.1.0"
-
-"@stylistic/eslint-plugin-ts@^2.0.0":
-  version "2.6.5"
-  resolved "https://registry.yarnpkg.com/@stylistic/eslint-plugin-ts/-/eslint-plugin-ts-2.6.5.tgz#8e1d0557c2da8f8ebea353f8ca8c56c10c9db5ca"
-  integrity sha512-Xoax5Uos8b/xod56AU4jpzCmqDHk/KHiITpQTWBQKAwZ7MIKRlBnndPpDTtUkzSm8eAPCPWv9RyOdv7a0ScxqQ==
-  dependencies:
-    "@stylistic/eslint-plugin-js" "2.6.5"
-    "@types/eslint" "^9.6.0"
-    "@typescript-eslint/utils" "^8.3.0"
 
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.6"
@@ -1035,7 +1026,7 @@
     "@types/node" "*"
     "@types/responselike" "*"
 
-"@types/eslint@^9.6.0":
+"@types/eslint@^9.6.1":
   version "9.6.1"
   resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-9.6.1.tgz#d5795ad732ce81715f27f75da913004a56751584"
   integrity sha512-FXx2pKgId/WyYo2jXw63kk7/+TY7u7AziEJxJAnSFzHlqTAS3Ync6SvgYAN/k4/PQpnnVuzoMuVnByKK2qp0ag==
@@ -1291,7 +1282,7 @@ acorn-jsx@^5.3.2:
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
   integrity sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==
 
-acorn@^8.12.0, acorn@^8.12.1:
+acorn@^8.12.0:
   version "8.12.1"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.12.1.tgz#71616bdccbe25e27a54439e0046e89ca76df2248"
   integrity sha512-tcpGyI9zbizT9JbV6oYE477V6mTlXvvi0T0G3SNIYE2apm/G5huBa1+K89VGeovbg+jycCrfhl3ADxErOuO6Jg==
