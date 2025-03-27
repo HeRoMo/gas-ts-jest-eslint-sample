@@ -1450,62 +1450,82 @@
     "@typescript-eslint/types" "8.28.0"
     eslint-visitor-keys "^4.2.0"
 
-"@unrs/rspack-resolver-binding-darwin-arm64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-darwin-arm64/-/rspack-resolver-binding-darwin-arm64-1.1.0.tgz#91792a0a8a3c56f642d4c0ac8dc25f4f68113405"
-  integrity sha512-otdWnJrycP8Ow0rbiKKjhrW7PPeHPoIglYjBruqh75fEwQGV2EmA9oZMgD4YA6g+/hGzD0mXI26YnWL0G0SkTA==
+"@unrs/resolver-binding-darwin-arm64@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-darwin-arm64/-/resolver-binding-darwin-arm64-1.3.2.tgz#e2394af11511ed50025f890b3bbb83fc99c26e72"
+  integrity sha512-ddnlXgRi0Fog5+7U5Q1qY62wl95Q1lB4tXQX1UIA9YHmRCHN2twaQW0/4tDVGCvTVEU3xEayU7VemEr7GcBYUw==
 
-"@unrs/rspack-resolver-binding-darwin-x64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-darwin-x64/-/rspack-resolver-binding-darwin-x64-1.1.0.tgz#bf059fea9d1b19d63286a3f1a81d2b75e8d3f572"
-  integrity sha512-MqHyrtIw2ra0KZlniDITROq6rEiMsBnaJtQDYLNDv/y+pvPSXdB3VveZCwSldXJ9TrST2b3NnIbmehljjsMVhg==
+"@unrs/resolver-binding-darwin-x64@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-darwin-x64/-/resolver-binding-darwin-x64-1.3.2.tgz#e971ef77c16ec295f4183dbc3b4d2498f81593de"
+  integrity sha512-tnl9xoEeg503jis+LW5cuq4hyLGQyqaoBL8VdPSqcewo/FL1C8POHbzl+AL25TidWYJD+R6bGUTE381kA1sT9w==
 
-"@unrs/rspack-resolver-binding-freebsd-x64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-freebsd-x64/-/rspack-resolver-binding-freebsd-x64-1.1.0.tgz#0845280a04064e38725f25187f671848066f97b2"
-  integrity sha512-bopyOqmtWn8np1d4iN90PE1tYHopdWwei7mK8/8mf4qhc99f7WRNXtWa1MoL5sjN3DWef3jvr0+MGnMS9MTfJA==
+"@unrs/resolver-binding-freebsd-x64@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-freebsd-x64/-/resolver-binding-freebsd-x64-1.3.2.tgz#89e0ee4d86c4d5d55d7b3c9b555a1e21946bdd13"
+  integrity sha512-zyPn9LFCCjhKPeCtECZaiMUgkYN/VpLb4a9Xv7QriJmTaQxsuDtXqOHifrzUXIhorJTyS+5MOKDuNL0X9I4EHA==
 
-"@unrs/rspack-resolver-binding-linux-arm-gnueabihf@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-linux-arm-gnueabihf/-/rspack-resolver-binding-linux-arm-gnueabihf-1.1.0.tgz#4756675be91121317cdbe36660964627e6344098"
-  integrity sha512-XldXRkQurDBXCiCuIaWcqOX6UtvjFW8O3CH/kFEZxNJISOAt+ztgyRQRxYhf+T1p18R4boripKmWKEE0uBCiYw==
+"@unrs/resolver-binding-linux-arm-gnueabihf@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-arm-gnueabihf/-/resolver-binding-linux-arm-gnueabihf-1.3.2.tgz#f26b076e3de838161f8163cc81146cf7b959b06c"
+  integrity sha512-UWx56Wh59Ro69fe+Wfvld4E1n9KG0e3zeouWLn8eSasyi/yVH/7ZW3CLTVFQ81oMKSpXwr5u6RpzttDXZKiO4g==
 
-"@unrs/rspack-resolver-binding-linux-arm64-gnu@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-linux-arm64-gnu/-/rspack-resolver-binding-linux-arm64-gnu-1.1.0.tgz#c702cbb8890be6e0ddd66792160bdea7ccc9f772"
-  integrity sha512-8zubI4MY3whPfLNHEiJ0TeSC5eSmNVWTEGAeMGALCUQtVD9TyZTd6wGwWrQVRN7ESIapWUSChkPLr+Bi13d9sQ==
+"@unrs/resolver-binding-linux-arm-musleabihf@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-arm-musleabihf/-/resolver-binding-linux-arm-musleabihf-1.3.2.tgz#8b4effb38f066c9058ab3ab099ecc7526f7bb8cf"
+  integrity sha512-VYGQXsOEJtfaoY2fOm8Z9ii5idFaHFYlrq3yMFZPaFKo8ufOXYm8hnfru7qetbM9MX116iWaPC0ZX5sK+1Dr+g==
 
-"@unrs/rspack-resolver-binding-linux-arm64-musl@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-linux-arm64-musl/-/rspack-resolver-binding-linux-arm64-musl-1.1.0.tgz#e9d1170bffa4f1a5f772e9cfcd2f3a09fb6d3ef6"
-  integrity sha512-+GAyOhl8KPqJsILpHTB/mMc4hfOwI4INed8VAZnSvdaL0ec3Sz/6UXEeTtucW1fWhwaP3lVlpjv2xuRhOCjehA==
+"@unrs/resolver-binding-linux-arm64-gnu@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-arm64-gnu/-/resolver-binding-linux-arm64-gnu-1.3.2.tgz#77fc9bae5f0e481d226fe30c853e9b8c3542639c"
+  integrity sha512-3zP420zxJfYPD1rGp2/OTIBxF8E3+/6VqCG+DEO6kkDgBiloa7Y8pw1o7N9BfgAC+VC8FPZsFXhV2lpx+lLRMQ==
 
-"@unrs/rspack-resolver-binding-linux-x64-gnu@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-linux-x64-gnu/-/rspack-resolver-binding-linux-x64-gnu-1.1.0.tgz#8913d6de88408008aae7a8c5cc1334d40520a75f"
-  integrity sha512-0zoy6UwRFoto5boJKGjgDpA+4kv+G1kysgrAe0KVefJXOnDNJlfgcV7mOV2O9J+FqtIQsXvzmOJxDB9e1Hhbzw==
+"@unrs/resolver-binding-linux-arm64-musl@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-arm64-musl/-/resolver-binding-linux-arm64-musl-1.3.2.tgz#1a749cb3f5b54044828161317f67f19d4b50cd73"
+  integrity sha512-ZWjSleUgr88H4Kei7yT4PlPqySTuWN1OYDDcdbmMCtLWFly3ed+rkrcCb3gvqXdDbYrGOtzv3g2qPEN+WWNv5Q==
 
-"@unrs/rspack-resolver-binding-linux-x64-musl@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-linux-x64-musl/-/rspack-resolver-binding-linux-x64-musl-1.1.0.tgz#2df0f4d3b4c8961c7e1a10c5fd8f29885baa12c6"
-  integrity sha512-XjC+aZKi+X+ma5e6yaVTvojK0v0kxfikbP1dB0klx80NjCW9KRrldiZxAo7ME8Tb4a7Fz0J6PDOVzd9tFYwkQQ==
+"@unrs/resolver-binding-linux-ppc64-gnu@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-ppc64-gnu/-/resolver-binding-linux-ppc64-gnu-1.3.2.tgz#d4b0cccbaff413cfd586eefe9f0507d376af1b16"
+  integrity sha512-p+5OvYJ2UOlpjes3WfBlxyvQok2u26hLyPxLFHkYlfzhZW0juhvBf/tvewz1LDFe30M7zL9cF4OOO5dcvtk+cw==
 
-"@unrs/rspack-resolver-binding-wasm32-wasi@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-wasm32-wasi/-/rspack-resolver-binding-wasm32-wasi-1.1.0.tgz#a9bdf5aef8c547de6f6b73ef762f19868e754adb"
-  integrity sha512-eVBK4z9VN3vahAh2+bQBl+vs9JgWEF1xeccilDcerGNkmlFHB1My5++sbeZzou+DExkioVAdfK+uVyVnHS4k7Q==
+"@unrs/resolver-binding-linux-s390x-gnu@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-s390x-gnu/-/resolver-binding-linux-s390x-gnu-1.3.2.tgz#d031764866b1cf0bdbcf153704d2515072f8b62a"
+  integrity sha512-yweY7I6SqNn3kvj6vE4PQRo7j8Oz6+NiUhmgciBNAUOuI3Jq0bnW29hbHJdxZRSN1kYkQnSkbbA1tT8VnK816w==
+
+"@unrs/resolver-binding-linux-x64-gnu@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-x64-gnu/-/resolver-binding-linux-x64-gnu-1.3.2.tgz#9b859eb8afb094260041b93afc687e2d7426c621"
+  integrity sha512-fNIvtzJcGN9hzWTIayrTSk2+KHQrqKbbY+I88xMVMOFV9t4AXha4veJdKaIuuks+2JNr6GuuNdsL7+exywZ32w==
+
+"@unrs/resolver-binding-linux-x64-musl@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-linux-x64-musl/-/resolver-binding-linux-x64-musl-1.3.2.tgz#e382ce3b9e91a333eb4cbbdea852116ff18ffd7a"
+  integrity sha512-OaFEw8WAjiwBGxutQgkWhoAGB5BQqZJ8Gjt/mW+m6DWNjimcxU22uWCuEtfw1CIwLlKPOzsgH0429fWmZcTGkg==
+
+"@unrs/resolver-binding-wasm32-wasi@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-wasm32-wasi/-/resolver-binding-wasm32-wasi-1.3.2.tgz#ad6afbbc53cec1fcfc22cb57a325b66f07b87f75"
+  integrity sha512-u+sumtO7M0AGQ9bNQrF4BHNpUyxo23FM/yXZfmVAicTQ+mXtG06O7pm5zQUw3Mr4jRs2I84uh4O0hd8bdouuvQ==
   dependencies:
     "@napi-rs/wasm-runtime" "^0.2.7"
 
-"@unrs/rspack-resolver-binding-win32-arm64-msvc@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-win32-arm64-msvc/-/rspack-resolver-binding-win32-arm64-msvc-1.1.0.tgz#159e5d9473177bc7dc65aa8f23987cd77a7325b6"
-  integrity sha512-ktm/CnSKOt/Wwdi2SBECLPJ+gL5oaw8LDHG4IfOQO5oT6qlIP0DaOUPrTf8g/WTlLnSp4TryDBM0B/gGla3LEw==
+"@unrs/resolver-binding-win32-arm64-msvc@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-win32-arm64-msvc/-/resolver-binding-win32-arm64-msvc-1.3.2.tgz#5457aaf7abde1b9ca331f029ee6a4371db3f98a5"
+  integrity sha512-ZAJKy95vmDIHsRFuPNqPQRON8r2mSMf3p9DoX+OMOhvu2c8OXGg8MvhGRf3PNg45ozRrPdXDnngURKgaFfpGoQ==
 
-"@unrs/rspack-resolver-binding-win32-x64-msvc@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@unrs/rspack-resolver-binding-win32-x64-msvc/-/rspack-resolver-binding-win32-x64-msvc-1.1.0.tgz#82566738151de3cdf9f36c02a24d2538c685e5c5"
-  integrity sha512-cdMid8RdR6XaQ5uAudzdu9Ydl3HbYjiwpsh+X01APmTZG2ph7OeaRTozW4F8ScUHkPHfrYedv9McICbHxgBvXQ==
+"@unrs/resolver-binding-win32-ia32-msvc@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-win32-ia32-msvc/-/resolver-binding-win32-ia32-msvc-1.3.2.tgz#ea8186a2cb6b4a84893ffdb5974e536ddf030972"
+  integrity sha512-nQG4YFAS2BLoKVQFK/FrWJvFATI5DQUWQrcPcsWG9Ve5BLLHZuPOrJ2SpAJwLXQrRv6XHSFAYGI8wQpBg/CiFA==
+
+"@unrs/resolver-binding-win32-x64-msvc@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@unrs/resolver-binding-win32-x64-msvc/-/resolver-binding-win32-x64-msvc-1.3.2.tgz#76d02a262d15865bb7ea51060c6c816ca96aecaf"
+  integrity sha512-XBWpUP0mHya6yGBwNefhyEa6V7HgYKCxEAY4qhTm/PcAQyBPNmjj97VZJOJkVdUsyuuii7xmq0pXWX/c2aToHQ==
 
 abort-controller@^3.0.0:
   version "3.0.0"
@@ -2517,17 +2537,17 @@ eslint-import-resolver-node@^0.3.9:
     resolve "^1.22.4"
 
 eslint-import-resolver-typescript@^3.6.1:
-  version "3.9.1"
-  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-3.9.1.tgz#0ab8d0ed911e875684a96976a118adee5d1c9daa"
-  integrity sha512-euxa5rTGqHeqVxmOHT25hpk58PxkQ4mNoX6Yun4ooGaCHAxOCojJYNvjmyeOQxj/LyW+3fulH0+xtk+p2kPPTw==
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-3.10.0.tgz#5bca4c579e17174e95bf67526b424d07b46c352e"
+  integrity sha512-aV3/dVsT0/H9BtpNwbaqvl+0xGMRGzncLyhm793NFGvbwGGvzyAykqWZ8oZlZuGwuHkwJjhWJkG1cM3ynvd2pQ==
   dependencies:
     "@nolyfill/is-core-module" "1.0.39"
     debug "^4.4.0"
     get-tsconfig "^4.10.0"
-    is-bun-module "^1.3.0"
-    rspack-resolver "^1.1.0"
+    is-bun-module "^2.0.0"
     stable-hash "^0.0.5"
     tinyglobby "^0.2.12"
+    unrs-resolver "^1.3.2"
 
 eslint-module-utils@^2.12.0:
   version "2.12.0"
@@ -3391,12 +3411,12 @@ is-boolean-object@^1.1.0:
     call-bind "^1.0.2"
     has-tostringtag "^1.0.0"
 
-is-bun-module@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/is-bun-module/-/is-bun-module-1.3.0.tgz#ea4d24fdebfcecc98e81bcbcb506827fee288760"
-  integrity sha512-DgXeu5UWI0IsMQundYb5UAOzm6G2eVnarJ0byP6Tm55iZNKceD59LNPA2L4VvsScTtHcw0yEkVwSf7PC+QoLSA==
+is-bun-module@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-bun-module/-/is-bun-module-2.0.0.tgz#4d7859a87c0fcac950c95e666730e745eae8bddd"
+  integrity sha512-gNCGbnnnnFAUGKeZ9PdbyeGYJqewpmc2aKHUEMO5nQPWU9lOmv7jcmQIv+qHD8fXW6W7qfuCwX4rY9LNRjXrkQ==
   dependencies:
-    semver "^7.6.3"
+    semver "^7.7.1"
 
 is-callable@^1.1.3, is-callable@^1.1.4, is-callable@^1.2.7:
   version "1.2.7"
@@ -4984,23 +5004,6 @@ router-ips@^1.0.0:
   resolved "https://registry.yarnpkg.com/router-ips/-/router-ips-1.0.0.tgz#44e00858ebebc0133d58e40b2cd8a1fbb04203f5"
   integrity sha1-ROAIWOvrwBM9WOQLLNih+7BCA/U=
 
-rspack-resolver@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/rspack-resolver/-/rspack-resolver-1.1.0.tgz#4ed902f908fe964446e06990f9de329244205427"
-  integrity sha512-pJfTX5KuwbJc4agd2AQ9sMwrBxMAGkLt4/HHw5+L06WuzxjsEjg3oDKdbfn43QGq0Stw8wQ7VpZjWA/T03L0Pg==
-  optionalDependencies:
-    "@unrs/rspack-resolver-binding-darwin-arm64" "1.1.0"
-    "@unrs/rspack-resolver-binding-darwin-x64" "1.1.0"
-    "@unrs/rspack-resolver-binding-freebsd-x64" "1.1.0"
-    "@unrs/rspack-resolver-binding-linux-arm-gnueabihf" "1.1.0"
-    "@unrs/rspack-resolver-binding-linux-arm64-gnu" "1.1.0"
-    "@unrs/rspack-resolver-binding-linux-arm64-musl" "1.1.0"
-    "@unrs/rspack-resolver-binding-linux-x64-gnu" "1.1.0"
-    "@unrs/rspack-resolver-binding-linux-x64-musl" "1.1.0"
-    "@unrs/rspack-resolver-binding-wasm32-wasi" "1.1.0"
-    "@unrs/rspack-resolver-binding-win32-arm64-msvc" "1.1.0"
-    "@unrs/rspack-resolver-binding-win32-x64-msvc" "1.1.0"
-
 run-async@^2.3.0, run-async@^2.4.0:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/run-async/-/run-async-2.4.1.tgz#8440eccf99ea3e70bd409d49aab88e10c189a455"
@@ -5078,7 +5081,7 @@ semver@^7.5.4:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.1.tgz#60bfe090bf907a25aa8119a72b9f90ef7ca281b2"
   integrity sha512-f/vbBsu+fOiYt+lmwZV0rVwJScl46HppnOA1ZvIuBWKOTlllpyJ3bfVax76/OrhCH38dyxoDIA8K7uB963IYgA==
 
-semver@^7.6.0, semver@^7.6.3, semver@^7.7.1:
+semver@^7.6.0, semver@^7.7.1:
   version "7.7.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.1.tgz#abd5098d82b18c6c81f6074ff2647fd3e7220c9f"
   integrity sha512-hlq8tAfn0m/61p4BVRcPzIGr6LKiMwo4VM6dGi6pt4qcRkmNzTcWq6eCEjEh+qXjkMDvPlOFFSGwQjoEa6gyMA==
@@ -5571,6 +5574,27 @@ universalify@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
+
+unrs-resolver@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/unrs-resolver/-/unrs-resolver-1.3.2.tgz#7c1dc0adabb1c3971c8c5cbdd8c1c2f742286e6d"
+  integrity sha512-ZKQBC351Ubw0PY8xWhneIfb6dygTQeUHtCcNGd0QB618zabD/WbFMYdRyJ7xeVT+6G82K5v/oyZO0QSHFtbIuw==
+  optionalDependencies:
+    "@unrs/resolver-binding-darwin-arm64" "1.3.2"
+    "@unrs/resolver-binding-darwin-x64" "1.3.2"
+    "@unrs/resolver-binding-freebsd-x64" "1.3.2"
+    "@unrs/resolver-binding-linux-arm-gnueabihf" "1.3.2"
+    "@unrs/resolver-binding-linux-arm-musleabihf" "1.3.2"
+    "@unrs/resolver-binding-linux-arm64-gnu" "1.3.2"
+    "@unrs/resolver-binding-linux-arm64-musl" "1.3.2"
+    "@unrs/resolver-binding-linux-ppc64-gnu" "1.3.2"
+    "@unrs/resolver-binding-linux-s390x-gnu" "1.3.2"
+    "@unrs/resolver-binding-linux-x64-gnu" "1.3.2"
+    "@unrs/resolver-binding-linux-x64-musl" "1.3.2"
+    "@unrs/resolver-binding-wasm32-wasi" "1.3.2"
+    "@unrs/resolver-binding-win32-arm64-msvc" "1.3.2"
+    "@unrs/resolver-binding-win32-ia32-msvc" "1.3.2"
+    "@unrs/resolver-binding-win32-x64-msvc" "1.3.2"
 
 uri-js@^4.2.2:
   version "4.4.1"
