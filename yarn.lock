@@ -1064,11 +1064,6 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nolyfill/is-core-module@1.0.39":
-  version "1.0.39"
-  resolved "https://registry.yarnpkg.com/@nolyfill/is-core-module/-/is-core-module-1.0.39.tgz#3dc35ba0f1e66b403c00b39344f870298ebb1c8e"
-  integrity sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==
-
 "@rtsao/scc@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@rtsao/scc/-/scc-1.1.0.tgz#927dd2fae9bc3361403ac2c7a00c32ddce9ad7e8"
@@ -2536,12 +2531,11 @@ eslint-import-resolver-node@^0.3.9:
     is-core-module "^2.13.0"
     resolve "^1.22.4"
 
-eslint-import-resolver-typescript@^3.6.1:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-3.10.0.tgz#5bca4c579e17174e95bf67526b424d07b46c352e"
-  integrity sha512-aV3/dVsT0/H9BtpNwbaqvl+0xGMRGzncLyhm793NFGvbwGGvzyAykqWZ8oZlZuGwuHkwJjhWJkG1cM3ynvd2pQ==
+eslint-import-resolver-typescript@^4.0.0:
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-4.2.5.tgz#7936d5406ba805700422262c649953d9c7476106"
+  integrity sha512-VtSNsVbyDlubDcx5Lb1K1Y8G4MxUuC9XVALX1z2EIXaLobCedvFPQ2XRemobQStn04G9MRi3iu1JFLKI4/8fig==
   dependencies:
-    "@nolyfill/is-core-module" "1.0.39"
     debug "^4.4.0"
     get-tsconfig "^4.10.0"
     is-bun-module "^2.0.0"
