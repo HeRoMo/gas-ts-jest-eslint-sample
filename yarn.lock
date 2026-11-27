@@ -3031,10 +3031,10 @@ eslint-plugin-import@^2.29.1:
     string.prototype.trimend "^1.0.9"
     tsconfig-paths "^3.15.0"
 
-eslint-plugin-jest@29.17.1:
-  version "29.17.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-29.17.1.tgz#42f8430f2cf8b03b3b7dfaed8a7657bbe457ed53"
-  integrity sha512-Ec5MnIgjAGAHwXQ0sMeEqXGzEe1jtBe6r52Iw7AquulmI92ldRWQNITBFvnCwPxz6s+89zTViQr49gSH/aGiXA==
+eslint-plugin-jest@29.17.2:
+  version "29.17.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-29.17.2.tgz#52f617a3c752886b0456610c23b690f1842219ea"
+  integrity sha512-PkDicB9njFXWby0rfpHSMGLkNf37c6EavIDUPNXVv1BGRLyr1nnea4jRc1EFOlUTZCW5iGzVGGHXb/siEf+QmQ==
   dependencies:
     "@typescript-eslint/utils" "^8.0.0"
 
